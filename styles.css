@@ -1,0 +1,23 @@
+*{
+    background-color: azure;
+}
+
+head.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+div {
+    width: 100%;
+    height: 200px;
+    background-image: url('https://external-preview.redd.it/LIB7fgP5g9c5cY7UNNN9_E1HNfOY1GFnSfjjfC8ZmF8.jpg?auto=webp&s=5b96ab70dcda1f4619a2641b1ffe2516c4a3c100');
+    background-size: 100% 100%;
+    border: 1px solid red;
+}
+ img.class {
+     display:block;
+     margin-left: auto;
+     margin-right:auto;
+ }
